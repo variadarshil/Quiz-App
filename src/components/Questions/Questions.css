@@ -1,0 +1,20 @@
+.container {
+  max-width: 600px;
+  padding: 18px;
+  margin: 18px auto;
+  box-shadow: 0 4px 8px rgba(0, 0 ,0, 0.1);
+  background-color: white;
+  border-radius: 5px;
+}
+
+.choices button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: sandybrown;
+  cursor: pointer;
+}
